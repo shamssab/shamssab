@@ -1,17 +1,42 @@
-### Hi there 👋 I am Sabrina Shams!
+### Hi there 👋 I am Sabrina Shams! 
 
+<p align="center">
+  <img src="https://media.tenor.com/b-hHxC3jx_AAAAAi/kirby-spinning.gif" title ="Hii">
+</p>
 
-  ![ezgif-1-efe56816fa](https://github.com/shamssab/shamssab/assets/133707567/adb3c3f6-218e-4004-88e7-43cc61b60946)
-
-   I am currently a student at the University of Toronto studying Computer Science specilaizing in the Software Engineering stream. 
- 
+Hello! I am Sabrina Shams, a student at the University of Toronto studying Computer Science with a focus on Software Engineering. I have a passion for technology and enjoy exploring its various aspects, from coding to web development. I am always eager to learn and grow in the ever-evolving world of technology. Let's connect and explore the exciting possibilities together! 
   - 🌹 I'm currently honing my skills on Web development for some personal projects
-  - 🌻 a
-  - 🌺 b
-  - 🌸 c
+  - 🌻 I'm looking to collaborate on exciting tech projects and expand my network in the tech community
+  - 🌺 My favorite programming languages are C and Java, but I'm always eager to learn and experiment with new languages and tools
+  - 🌸 I'm currently learning about DevOps practices and cloud technologies
   - 🪻 My email is : sabrina.shams@mail.utoronto.ca
-  - 🌼 My Portfolio Website: https://sabrinashams.com
-  - 🫧 Fun fact: I love reading :) 
+  - 🌼 My Portfolio Website is: [https://sabrinashams.com](https://sabrinashams.com)
+  - 🫧 Fun fact: I love reading and traveling to discover new cultures!
+
+My Skills Set:
+
+<div style="display: inline-block;">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="React" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg" title="CSS" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" width="40" height="40" style="max-width: 100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40" style="max-width: 100%;">
+</div>
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamssab&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 
