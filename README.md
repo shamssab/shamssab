@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Sabrina Shams! 
 
 <p align="center">
-  <img src="https://media.tenor.com/b-hHxC3jx_AAAAAi/kirby-spinning.gif" title ="Hii">
+  <img src="https://media.tenor.com/b-hHxC3jx_AAAAAi/kirby-spinning.gif" title ="Hii" width = 175>
 </p>
 
 Hello! I am Sabrina Shams, a student at the University of Toronto studying Computer Science with a focus on Software Engineering. I have a passion for technology and enjoy exploring its various aspects, from coding to web development. I am always eager to learn and grow in the ever-evolving world of technology. Let's connect and explore the exciting possibilities together! 
@@ -12,8 +12,9 @@ Hello! I am Sabrina Shams, a student at the University of Toronto studying Compu
   - 🪻 My email is : sabrina.shams@mail.utoronto.ca
   - 🌼 My Portfolio Website is: [https://sabrinashams.com](https://sabrinashams.com)
   - 🫧 Fun fact: I love reading and traveling to discover new cultures!
+  <br>
 
-My Skills Set:
+**My Skills Set:**
 
 <div style="display: inline-block;">
   <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40" style="max-width: 100%;">
@@ -32,12 +33,9 @@ My Skills Set:
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="40" height="40" style="max-width: 100%;">
 </div>
 
-
-
-
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamssab&hide=javascript,css,scss,html&theme=tokyonight)
-
 
 
 
