@@ -35,7 +35,7 @@ Hello! I am Sabrina Shams, a student at the University of Toronto studying Compu
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamssab&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamssab)](https://github.com/shamssab/github-readme-stats)
 
 
 
