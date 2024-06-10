@@ -35,9 +35,9 @@ Hello! I am Sabrina Shams, a student at the University of Toronto studying Compu
 
 <br>
 
-[![Sabrina's Github Stats](https://github-readme-stats.vercel.app/api?username=shamssab&show_icons=true)](https://github.com/shamssab/github-readme-stats)
+[![Sabrina's Github Stats](https://github-readme-stats.vercel.app/api?username=shamssab&show_icons=true&theme=radical)](https://github.com/shamssab/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamssab)](https://github.com/shamssab/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamssab&theme=radical)](https://github.com/shamssab/github-readme-stats)
 
 
 
@@ -45,6 +45,9 @@ Hello! I am Sabrina Shams, a student at the University of Toronto studying Compu
 
 
 <!--
+
+you like theme radical !!!
+
 **shamssab/shamssab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
