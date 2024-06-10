@@ -37,7 +37,7 @@ Hello! I am Sabrina Shams, a student at the University of Toronto studying Compu
 
 [![Sabrina's Github Stats](https://github-readme-stats.vercel.app/api?username=shamssab&show_icons=true&theme=radical)](https://github.com/shamssab/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shamssab&theme=radical)](https://github.com/shamssab/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five-82.vercel.app/api/top-langs/?username=shamssab&theme=radical&count_private=true)](https://github.com/shamssab/github-readme-stats)
 
 
 
