@@ -8,7 +8,7 @@ Hello! I am Sabrina Shams, a student at the University of Toronto studying Compu
   - 🌹 I'm currently honing my skills on Web development for some personal projects
   - 🌻 I'm looking to collaborate on exciting tech projects and expand my network in the tech community
   - 🌺 My favorite programming languages are C and Java, but I'm always eager to learn and experiment with new languages and tools
-  - 🌸 I'm currently learning about DevOps practices and cloud technologies
+  - 🌸 I'm currently learning how to build a game using Javascript!
   - 🪻 My email is : sabrina.shams@mail.utoronto.ca
   - 🌼 My Portfolio Website is: [https://sabrinashams.com](https://sabrinashams.com)
   - 🫧 Fun fact: I love reading and traveling to discover new cultures!
